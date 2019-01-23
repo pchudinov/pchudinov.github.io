@@ -1,0 +1,66 @@
+c:\users\user\documents\visual studio 2015\Projects\Teplostroy\Web.Teplostroy\bin\ApplicationInsights.config
+c:\users\user\documents\visual studio 2015\Projects\Teplostroy\Web.Teplostroy\bin\roslyn\csc.exe
+c:\users\user\documents\visual studio 2015\Projects\Teplostroy\Web.Teplostroy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\Teplostroy\Web.Teplostroy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\user\documents\visual studio 2015\Projects\Teplostroy\Web.Teplostroy\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\Teplostroy\Web.Teplostroy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\user\documents\visual studio 2015\Projects\Teplostroy\Web.Teplostroy\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\Teplostroy\Web.Teplostroy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\Teplostroy\Web.Teplostroy\bin\roslyn\System.Collections.Immutable.dll
+c:\users\user\documents\visual studio 2015\Projects\Teplostroy\Web.Teplostroy\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\user\documents\visual studio 2015\Projects\Teplostroy\Web.Teplostroy\bin\roslyn\vbc.exe
+c:\users\user\documents\visual studio 2015\Projects\Teplostroy\Web.Teplostroy\bin\roslyn\VBCSCompiler.exe
+c:\users\user\documents\visual studio 2015\Projects\Teplostroy\Web.Teplostroy\bin\roslyn\VBCSCompiler.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Teplostroy\Web.Teplostroy\bin\Web.Teplostroy.dll.config
+c:\users\user\documents\visual studio 2015\Projects\Teplostroy\Web.Teplostroy\bin\Web.Teplostroy.dll
+c:\users\user\documents\visual studio 2015\Projects\Teplostroy\Web.Teplostroy\bin\Web.Teplostroy.pdb
+c:\users\user\documents\visual studio 2015\Projects\Teplostroy\Web.Teplostroy\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\user\documents\visual studio 2015\Projects\Teplostroy\Web.Teplostroy\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\user\documents\visual studio 2015\Projects\Teplostroy\Web.Teplostroy\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\user\documents\visual studio 2015\Projects\Teplostroy\Web.Teplostroy\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\user\documents\visual studio 2015\Projects\Teplostroy\Web.Teplostroy\bin\Microsoft.AI.Web.dll
+c:\users\user\documents\visual studio 2015\Projects\Teplostroy\Web.Teplostroy\bin\Microsoft.AI.WindowsServer.dll
+c:\users\user\documents\visual studio 2015\Projects\Teplostroy\Web.Teplostroy\bin\Microsoft.ApplicationInsights.dll
+c:\users\user\documents\visual studio 2015\Projects\Teplostroy\Web.Teplostroy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\user\documents\visual studio 2015\Projects\Teplostroy\Web.Teplostroy\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\user\documents\visual studio 2015\Projects\Teplostroy\Web.Teplostroy\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\user\documents\visual studio 2015\Projects\Teplostroy\Web.Teplostroy\bin\Microsoft.AI.Web.xml
+c:\users\user\documents\visual studio 2015\Projects\Teplostroy\Web.Teplostroy\bin\Microsoft.AI.WindowsServer.xml
+c:\users\user\documents\visual studio 2015\Projects\Teplostroy\Web.Teplostroy\bin\Microsoft.ApplicationInsights.xml
+c:\users\user\documents\visual studio 2015\Projects\Teplostroy\Web.Teplostroy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\user\documents\visual studio 2015\Projects\Teplostroy\Web.Teplostroy\obj\Debug\Web.Teplostroy.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Teplostroy\Web.Teplostroy\obj\Debug\Web.Teplostroy.dll
+c:\users\user\documents\visual studio 2015\Projects\Teplostroy\Web.Teplostroy\obj\Debug\Web.Teplostroy.pdb
+e:\Projects\Teplostroy\Web.Teplostroy\bin\ApplicationInsights.config
+e:\Projects\Teplostroy\Web.Teplostroy\bin\roslyn\csc.exe
+e:\Projects\Teplostroy\Web.Teplostroy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+e:\Projects\Teplostroy\Web.Teplostroy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+e:\Projects\Teplostroy\Web.Teplostroy\bin\roslyn\Microsoft.CodeAnalysis.dll
+e:\Projects\Teplostroy\Web.Teplostroy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+e:\Projects\Teplostroy\Web.Teplostroy\bin\roslyn\Microsoft.CSharp.Core.targets
+e:\Projects\Teplostroy\Web.Teplostroy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+e:\Projects\Teplostroy\Web.Teplostroy\bin\roslyn\System.Collections.Immutable.dll
+e:\Projects\Teplostroy\Web.Teplostroy\bin\roslyn\System.Reflection.Metadata.dll
+e:\Projects\Teplostroy\Web.Teplostroy\bin\roslyn\vbc.exe
+e:\Projects\Teplostroy\Web.Teplostroy\bin\roslyn\VBCSCompiler.exe
+e:\Projects\Teplostroy\Web.Teplostroy\bin\roslyn\VBCSCompiler.exe.config
+e:\Projects\Teplostroy\Web.Teplostroy\bin\Web.Teplostroy.dll.config
+e:\Projects\Teplostroy\Web.Teplostroy\bin\Web.Teplostroy.dll
+e:\Projects\Teplostroy\Web.Teplostroy\bin\Web.Teplostroy.pdb
+e:\Projects\Teplostroy\Web.Teplostroy\bin\Microsoft.AI.Agent.Intercept.dll
+e:\Projects\Teplostroy\Web.Teplostroy\bin\Microsoft.AI.DependencyCollector.dll
+e:\Projects\Teplostroy\Web.Teplostroy\bin\Microsoft.AI.PerfCounterCollector.dll
+e:\Projects\Teplostroy\Web.Teplostroy\bin\Microsoft.AI.ServerTelemetryChannel.dll
+e:\Projects\Teplostroy\Web.Teplostroy\bin\Microsoft.AI.Web.dll
+e:\Projects\Teplostroy\Web.Teplostroy\bin\Microsoft.AI.WindowsServer.dll
+e:\Projects\Teplostroy\Web.Teplostroy\bin\Microsoft.ApplicationInsights.dll
+e:\Projects\Teplostroy\Web.Teplostroy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+e:\Projects\Teplostroy\Web.Teplostroy\bin\Microsoft.AI.DependencyCollector.xml
+e:\Projects\Teplostroy\Web.Teplostroy\bin\Microsoft.AI.ServerTelemetryChannel.xml
+e:\Projects\Teplostroy\Web.Teplostroy\bin\Microsoft.AI.Web.xml
+e:\Projects\Teplostroy\Web.Teplostroy\bin\Microsoft.AI.WindowsServer.xml
+e:\Projects\Teplostroy\Web.Teplostroy\bin\Microsoft.ApplicationInsights.xml
+e:\Projects\Teplostroy\Web.Teplostroy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+e:\Projects\Teplostroy\Web.Teplostroy\obj\Debug\Web.Teplostroy.csprojResolveAssemblyReference.cache
+e:\Projects\Teplostroy\Web.Teplostroy\obj\Debug\Web.Teplostroy.dll
+e:\Projects\Teplostroy\Web.Teplostroy\obj\Debug\Web.Teplostroy.pdb
